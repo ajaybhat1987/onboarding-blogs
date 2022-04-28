@@ -1,0 +1,8 @@
+{
+  "library": "spring-boot",
+  "modelPackage": "com.bosch.diana.management.openapi.model",
+  "apiPackage": "com.bosch.diana.management.openapi.api",
+  "basePackage": "com.bosch.diana.management.openapi",
+  "useTags": true,
+  "interfaceOnly": true
+}
